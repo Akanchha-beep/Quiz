@@ -374,11 +374,9 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
-@media (max-width:1440px) {
-  body {
-    text-align: center;
+@media screen and (max-width: 600px) {
+  .info-box {
+   text-align:center;
   }
-  
-   .social-col{
-       width: 33%;
-   }
+}
+
