@@ -374,9 +374,9 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
-@media screen and (max-width: 500px) {
-  .Starting {
-   text-align:center;
-    }
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+      text-align:center;
+  }
 }
-
