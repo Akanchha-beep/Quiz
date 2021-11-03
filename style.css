@@ -374,8 +374,8 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
-@media screen and (max-width: 300px) {
-  .info-box {
+@media screen and (max-width: 500px) {
+  .info_box {
    text-align:center;
   }
     .quiz_box {
