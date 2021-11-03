@@ -375,11 +375,8 @@ footer button.show{
     background: #007bff;
 }
 @media screen and (max-width: 500px) {
-  .info_box {
+  .Starting {
    text-align:center;
-  }
-    .quiz_box {
-   text-align:center;
-  }
+    }
 }
 
