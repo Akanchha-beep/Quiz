@@ -381,3 +381,8 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
+@media screen and (max-width: 420px) {
+           body {
+              background-color: lightblue;
+           }
+        }
