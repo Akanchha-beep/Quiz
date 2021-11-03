@@ -374,7 +374,7 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 300px) {
   .info-box {
    text-align:center;
   }
